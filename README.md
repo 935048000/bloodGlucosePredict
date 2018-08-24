@@ -14,3 +14,28 @@ The document stores the dynamic blood glucose value and the corresponding blood 
 This jupyter notebook is the main program
 
 这个jupyter notebook是主程序
+
+
+## regressionModelPredictBG.ipynb
+All kinds of regression models were used to predict blood glucose
+
+1.Linear Regression
+
+2.Decision Tree Regressor
+
+3.SVM Regressor
+
+4.K Neighbors Regressor
+
+5.Random Forest Regressor
+
+6.Adaboost Regressor
+
+7.Gradient Boosting Random Forest Regressor(GBRF R)
+
+8.Bagging Regressor
+
+9.ExtraTree Regressor
+
+
+使用各类回归模型进行血糖预测
